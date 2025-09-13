@@ -32,15 +32,6 @@ Machine Learning helps reduce manual reviews, costly chargebacks, and false tran
 
 ---
 
-## 📈 Results
-- Best Model: **XGBoost Classifier**
-- **AUC-ROC:** 0.97  
-- **Recall (Fraud class):** 0.91  
-- **Precision:** 0.88  
-- **F1-score:** 0.89  
-
----
-
 ## 🚀 Key Learnings
 - Handling **imbalanced datasets** using SMOTE and undersampling.  
 - Choosing the right **evaluation metrics** for fraud detection (Recall > Accuracy).  
